@@ -10,8 +10,8 @@ please share your github profile once you have created the account so that we ca
 
 **Coding Practise**
 1. sign up on LeetCode using your Git Account and Complete all Unlock Questions of Arraya and Strings
-2.https://leetcode.com/explore/featured/card/fun-with-arrays/
-3.https://leetcode.com/problemset/all/?topicSlugs=string&page=1
+2.Arrays : https://leetcode.com/explore/featured/card/fun-with-arrays/
+3.Strings: https://leetcode.com/problemset/all/?topicSlugs=string&page=1
 
     
 

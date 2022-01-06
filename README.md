@@ -12,6 +12,7 @@ please share your github profile once you have created the account so that we ca
 1. sign up on LeetCode using your Git Account and Complete all Unlock Questions of Arrays and Strings
   * Arrays : https://leetcode.com/explore/featured/card/fun-with-arrays/
   * Strings: https://leetcode.com/problemset/all/?topicSlugs=string&page=1 Update link @himanshi
+  * Hashtable: todo
     
 
 **Automated onboard.hitalent.org**

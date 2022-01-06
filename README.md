@@ -8,6 +8,13 @@ For onboarding a gmail email is mandatory, once we have the email we can send th
 All software intern are to start with https://github.com/krantikaridev/helloworld
 please share your github profile once you have created the account so that we can add you to repo
 
+**Coding Practise**
+1. sign up on LeetCode using your Git Account and Complete all Unlock Questions of Arraya and Strings:
+    https://leetcode.com/explore/featured/card/fun-with-arrays/
+    https://leetcode.com/problemset/all/?topicSlugs=string&page=1
+
+    
+
 **Automated onboard.hitalent.org**
 
 User will be greeted with something like/similar https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home where the user will use google oauth to signup using gmail something similar to https://accounts.google.com/o/oauth2/v2/auth/identifier?client_id=802926523257.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.linkedin.com%2Fgenie%2Ffinishauth&scope=profile%20email&response_type=code&state=0a6c3b70-4ba1-4dbb-816e-9bb0b416ff9b&flowName=GeneralOAuthFlow

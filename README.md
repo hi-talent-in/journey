@@ -12,6 +12,8 @@ please share your github profile once you have created the account so that we ca
 1. sign up on LeetCode using your Git Account and Complete all Unlock Questions of Arrays and Strings
   * Arrays : https://leetcode.com/explore/featured/card/fun-with-arrays/
   * Strings: https://leetcode.com/problemset/all/?topicSlugs=string&page=1
+2. interview practise questions : https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html#axzz7H5ubrwtI
+3. guide for DSA Practise : https://leetcode.com/discuss/general-discussion/494279/data-structure-and-algorithm-study-guide
 
     
 

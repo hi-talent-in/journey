@@ -1,16 +1,16 @@
-# onboarding
+# onboarding (30-45 days)
 This pertains to onboarding process of hitalent, this contain the onboarding steps for hitalent.
 The whole things needs to be automated and avaialaible on onboard.hitalent.org
 
 **Manual Process**
 
 For onboarding a gmail email is mandatory, once we have the email we can send the slack invite and provide 
-All software intern are to start with https://github.com/krantikaridev/helloworld
+All software intern are to start with https://github.com/krantikaridev/helloworld (2-3 weeks)
 please share your github profile once you have created the account so that we can add you to repo
 
-**Coding Practise**
+**Coding Practise** (100: 80 easy: 15 medium 5 hard) (Basic)
 1. sign up on LeetCode using your Git Account and Complete all Unlock Questions of Arrays and Strings
-  * Arrays : https://leetcode.com/explore/featured/card/fun-with-arrays/
+  * Arrays : https://leetcode.com/explore/featured/card/fun-with-arrays/ (20hr/)
   * Strings: https://leetcode.com/problemset/all/?topicSlugs=string&page=1 Update link @himanshi
   * Hashtable: todo
     

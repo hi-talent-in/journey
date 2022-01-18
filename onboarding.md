@@ -3,7 +3,7 @@
 > 
 The wisdom behind the onboarding process is to make you ready for starting on a new project, depending on a person skill gap he may or maynot be able to start on a project directly, In which case a learning plan will be created based on the skill gap which will make the candidate eligible for working on a project
 
-## GROUND RULES
+## [GROUND RULES](https://github.com/krantikaridev/onboarding/blob/e824b1a9bebd38be162370b0778bcf73d58f3853/Ground_Rules.md)
 
 ## Topics(you need to cover within one week)
 

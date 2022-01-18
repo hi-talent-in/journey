@@ -1,4 +1,4 @@
-# Hi Talent
+
 ## Introduction
 > 
 The wisdom behind the onboarding process is to make you ready for starting on a new project, depending on a person skill gap he may or maynot be able to start on a project directly, In which case a learning plan will be created based on the skill gap which will make the candidate eligible for working on a project
@@ -26,7 +26,10 @@ Sign up on **LeetCode** using your **Git Account**  and Complete all Unlock Ques
   - [Basic Level](https://leetcode.com/list/9ucfo876)
   - [Medium Level](https://leetcode.com/list/9ufc3t7j)
   - [Hard Level](https://leetcode.com/list/9th9k9g1)
-  
+ 
+ 
+>Tips!!
+>
 >[Top 30 Programming questions asked in Interview](https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html)
 >
 >[Guide for DSA](https://leetcode.com/discuss/general-discussion/494279/data-structure-and-algorithm-study-guide)

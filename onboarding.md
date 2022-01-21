@@ -3,21 +3,24 @@
 > 
 The wisdom behind the onboarding process is to make you ready for starting on a new project, depending on a person skill gap he may or maynot be able to start on a project directly, In which case a learning plan will be created based on the skill gap which will make the candidate eligible for working on a project
 
-## [GROUND RULES](https://github.com/krantikaridev/onboarding/blob/e824b1a9bebd38be162370b0778bcf73d58f3853/Ground_Rules.md)
+## Ground Rules
+>
+Please go through the following to undertand the behaviour which is required [GROUND RULES](https://github.com/krantikaridev/onboarding/blob/e824b1a9bebd38be162370b0778bcf73d58f3853/Ground_Rules.md)
 
-## Topics(you need to cover within one week)
-
+## First Step (you need to cover this within  first week)
+>
 - Introduction to Agile
   - https://youtu.be/6fKn4rgk4jM
 
 - Learn about Github
   - https://youtu.be/gwWKnnCMQ5c
 
-- Introduction to docker
-  - https://youtu.be/Gw2Jrid4SaQ
+- Create Git Account
+
+- Sign up on **LeetCode** using your **Git Account**
 
 ## Interview Coding Practise 
-
+>
 Sign up on **LeetCode** using your **Git Account**  and Complete all Unlock Questions of **Arrays** and **Strings**
 - **Arrays**
   - https://leetcode.com/explore/featured/card/fun-with-arrays/

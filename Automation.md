@@ -2,9 +2,9 @@ The whole on boarding process needs to be automated, this document contains the 
 
 ## onboard.hitalent.org
 
-User will be greeted with [something like/similar](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) where the user will use google oauth to signup using gmail something [similar to](https://accounts.google.com/o/oauth2/v2/auth/identifier?client_id=802926523257.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.linkedin.com%2Fgenie%2Ffinishauth&scope=profile%20email&response_type=code&state=0a6c3b70-4ba1-4dbb-816e-9bb0b416ff9b&flowName=GeneralOAuthFlow)
+User will be greeted with [something like/similar](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) where the user will use google oauth to signup using gmail something [similar to](https://accounts.google.com/o/oauth2/v2/auth/identifier?client_id=802926523257.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fwww.linkedin.com%2Fgenie%2Ffinishauth&scope=profile%20email&response_type=code&state=0a6c3b70-4ba1-4dbb-816e-9bb0b416ff9b&flowName=GeneralOAuthFlow).
 
-Once a user logs in or sign up(Gmail), they will land on onboard.hitalent.org/username (username is same as gmail by default else editable by talent, prferrably github profile name), where they will be able to see their progress regarding https://github.com/krantikaridev/helloworld some of the progress is automated some is proctored or self driven 
+Once a user logs in or sign up(Gmail), they will land on onboard.hitalent.org/username (username is same as gmail by default else editable by talent, prferrably github profile name), where they will be able to see their progress regarding https://github.com/krantikaridev/helloworld some of the progress is automated some is proctored or self driven.
 
 ## On Boarding Steps
 1) Google sign up, if u are on this page it's already done, otherwise you would be redirected to sign up step

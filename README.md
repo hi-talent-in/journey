@@ -7,7 +7,7 @@ This pertains to Journey of the talent who joins hitalent for becoming a softwar
 * Talent Accept the Slack Invite
 * Add talent to appropriate Slack Channel
 
-# Your journey starts [here](https://github.com/krantikaridev/onboarding/blob/main/onboarding.md)
+# Your journey starts [here](https://github.com/krantikaridev/journey/blob/main/journey.md)
    
 
 

@@ -8,6 +8,10 @@ Some of the levels or steps can be easily skipped depending on your existing ski
 >
 Please go through the following to undertand the behaviour you need to inculcate while you are with us [GROUND RULES](https://github.com/krantikaridev/onboarding/blob/e824b1a9bebd38be162370b0778bcf73d58f3853/Ground_Rules.md)
 
+## What you need to do
+>
+Follow all the steps mentioned below, if anything is not clear or you are not able to follow the instruction or you are stuck you need to reach out on [Slack Channel](https://app.slack.com/client/T02K0N59X5Z/C02SL4S8Y8J/thread/C02TF950A7P-1643356584.944729)
+
 ## Level 1
 
 - Introduction to Agile

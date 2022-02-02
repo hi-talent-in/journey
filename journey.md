@@ -50,6 +50,9 @@ Follow all the steps mentioned below, if anything is not clear or you are not ab
 
 ## Level 3
 - Getting more familiar with the language of your choice 
+  - [https://youtu.be/BM4CHBmAPh4](C#)
+
+- Getting familiar with programming concepts
   - OOPs
   - Functional Programming
   - SOLID
@@ -71,6 +74,8 @@ Follow all the steps mentioned below, if anything is not clear or you are not ab
 - Complete Level 3 at https://github.com/krantikaridev/helloworld
 
 ## Level 5
+- Getting more in depth knowledge of programming language
+  - [https://youtu.be/p5myHVOtmiU](C#)
 - Solve the following problem in any one of the above plateform
   - **Arrays**
     - [Medium Level](Link TODO)

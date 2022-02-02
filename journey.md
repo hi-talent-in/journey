@@ -22,15 +22,17 @@ Follow all the steps mentioned below, if anything is not clear or you are not ab
   - https://youtu.be/gwWKnnCMQ5c
   - Git is where the code lives in simple terms
 
-- Decide a language you want to be proficient at, We work with Javascript, Java, Python, DotNet for now.
+- Decide a language you want to be proficient at, We work with Javascript, Java, Python, DotNet, Javascript for now.
 
 - Complete Level 1 at https://github.com/krantikaridev/helloworld in laguage of your choice
 
 ## Level 2
 
-- Introduction to programming : practice the language of your choice for one week
-  - TODO: Provide some one week program for every language, this is just an introduction a mastery is not required
-  - eg: https://onemonth.com/courses
+- Introduction to programming : Practice the language of your choice for one week
+  - TODO: Provide some one week program for every language, this is just an introduction a mastery is not required  - 
+  - [https://www.w3schools.com/js/default.asp](javascript)
+  - [https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/](dotnet)
+  - 
 
 - Sign up on any one or more plateform listed below using your **Git Account**
   - [hackerrank](https://www.hackerrank.com/auth/signup)

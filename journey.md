@@ -29,10 +29,11 @@ Follow all the steps mentioned below, if anything is not clear or you are not ab
 ## Level 2
 
 - Introduction to programming : Practice the language of your choice for one week
-  - TODO: Provide some one week program for every language, this is just an introduction a mastery is not required  - 
+  - TODO: Concepts one needs to complete for this, this is just an introduction a mastery is not required  - 
   - [https://www.w3schools.com/js/default.asp](javascript)
   - [https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/](dotnet)
-  - 
+  - [https://www.learnjavaonline.org/](java) Basics steps are suffinet for this level
+  - [https://www.programiz.com/java-programming](java)
 
 - Sign up on any one or more plateform listed below using your **Git Account**
   - [hackerrank](https://www.hackerrank.com/auth/signup)
